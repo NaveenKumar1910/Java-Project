@@ -1,0 +1,20 @@
+package oops;
+
+public class Employee {
+	
+	public String Name;
+	public int Empid;
+	
+	
+	public Employee(String var1, int var2) {
+		// TODO Auto-generated constructor stub
+	}
+
+
+	public void DisplayName() {
+		
+		System.out.println("Name of the Employee is " + Name);
+		System.out.println("Employee ID: " + Empid);
+	}
+
+}

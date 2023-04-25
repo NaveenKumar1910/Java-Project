@@ -1,0 +1,8 @@
+package oops;
+
+public class Citizen {
+	
+	public int SSN;
+	
+
+}

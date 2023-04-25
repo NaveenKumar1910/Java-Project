@@ -1,0 +1,12 @@
+package oops;
+
+public class Citizen extends person {
+	
+	public int SSN;
+	
+	public Citizen(String Name, String CountryName, int age, int SSN) {
+		
+	}
+	
+
+}

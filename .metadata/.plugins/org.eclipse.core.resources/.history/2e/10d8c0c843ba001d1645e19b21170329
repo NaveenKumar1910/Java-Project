@@ -1,0 +1,14 @@
+package naveen5;
+
+public class Employee {
+	
+	public String Name;
+	public int EmpId;
+	
+	public void DisplayName() {
+		
+		System.out.println("Name of the Employee: " + Name);
+		System.out.println("Emplyee ID: " + EmpId);
+	}
+
+}

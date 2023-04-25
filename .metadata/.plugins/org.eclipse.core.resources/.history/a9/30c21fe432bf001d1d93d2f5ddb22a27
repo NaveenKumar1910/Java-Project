@@ -1,0 +1,16 @@
+package oops;
+
+public class Runnerclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Employee emp1 = new Employee();
+		emp1.Name = "Naveen";
+		emp1.Empid = 1000;
+		
+		emp1.DisplayName();
+
+	}
+
+}

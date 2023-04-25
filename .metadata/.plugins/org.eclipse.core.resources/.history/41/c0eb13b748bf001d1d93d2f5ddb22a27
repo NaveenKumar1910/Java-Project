@@ -1,0 +1,9 @@
+package oops;
+
+public class person {
+	
+	public String Name;
+	public int age;
+	protected String CountryName;
+	
+}
